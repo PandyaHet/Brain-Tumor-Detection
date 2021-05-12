@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873738282165",
+    "project_id": "brain-tumor-detection-e1e96",
+    "storage_bucket": "brain-tumor-detection-e1e96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873738282165:android:6970bf589a5ee065594afc",
+        "android_client_info": {
+          "package_name": "com.example.braintumordetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873738282165-9233sibdm76di6fvc77jhmprqh7gi28a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA717M8KqDseQ9eXj1QfbaIu37PK8962TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873738282165-9233sibdm76di6fvc77jhmprqh7gi28a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
